@@ -63,7 +63,7 @@ Olá , tenho 35 anos e sou natural de Brasília-DF. Atualmente, estou cursando A
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      width="430"
+      width="400"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBarcelar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 </p>
