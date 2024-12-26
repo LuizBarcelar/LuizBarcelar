@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front End`**
 
-Olá, me chamo Luiz Fernando Barcelar, tenho 35 anos e sou natural de Brasília-DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Gran Facudade e concluindo um curso como desenvolvedor Front End pelo escola DNC.
+Olá , tenho 35 anos e sou natural de Brasília-DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Gran Facudade e concluindo um curso como desenvolvedor Front End pelo escola DNC.
 
 
 ---
