@@ -41,7 +41,7 @@ Olá , tenho 35 anos e sou natural de Brasília-DF. Atualmente, estou cursando A
     title="React" 
     width="50px" 
     style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
 />
 <img 
     align="left" 
