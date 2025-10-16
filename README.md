@@ -2,7 +2,15 @@
 
 **`Desenvolvedor Front End`**
 
-Olá , tenho 35 anos e sou natural de Brasília-DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Gran Facudade e concluindo um curso como desenvolvedor Front End pelo escola DNC.
+👋 Olá! Sou o Luiz Barcelar, Desenvolvedor Front End com sólida experiência no ecossistema JavaScript, especializado em criar interfaces modernas, performáticas e com foco na melhor experiência do usuário.
+
+Tenho ampla vivência no desenvolvimento de aplicações web utilizando React, Next.js, TypeScript e Node.js, integrando design, tecnologia e performance em cada projeto.
+
+Acredito que um bom código vai além da funcionalidade — ele deve ser limpo, escalável e de fácil manutenção.
+
+Busco constantemente evoluir como profissional, explorando novas ferramentas e arquiteturas que tornem o desenvolvimento mais eficiente e centrado no usuário.
+
+🚀 Entrego soluções com propósito, atenção aos detalhes e paixão por transformar ideias em experiências digitais de alto impacto.
 
 
 ---
@@ -57,7 +65,15 @@ Olá , tenho 35 anos e sou natural de Brasília-DF. Atualmente, estou cursando A
     title="Node.JS" 
     width="50px" 
     style="padding-right: 20px;" 
-    src = " https: // devicon-website.vercel.app /api/ nodejs / original-wordmark .svg "
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.JS"
+    title="Next.JS" 
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 
 <br/>
