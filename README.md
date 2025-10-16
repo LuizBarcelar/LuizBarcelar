@@ -51,6 +51,14 @@ Olá , tenho 35 anos e sou natural de Brasília-DF. Atualmente, estou cursando A
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Node.JS"
+    title="Node.JS" 
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
+/>
 
 <br/>
 <br/>
