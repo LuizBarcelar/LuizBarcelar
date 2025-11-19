@@ -75,6 +75,14 @@ Busco constantemente evoluir como profissional, explorando novas ferramentas e a
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Nest.JS"
+    title="Nest.JS" 
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
+/>
 
 <br/>
 <br/>
