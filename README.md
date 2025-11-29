@@ -88,15 +88,5 @@ Busco constantemente evoluir como profissional, explorando novas ferramentas e a
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=LuizBarcelar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" width="420"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBarcelar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" width="420"/>
-</td>
-</tr>
-</table>
+
