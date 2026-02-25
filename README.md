@@ -1,92 +1,33 @@
-# 💻 Luiz Barcelar
+💻 Luiz Barcelar
 
-**`Desenvolvedor Front End`**
+Desenvolvedor Full Stack | JavaScript • React • Next.js • Node.js
 
-👋 Olá! Sou o Luiz Barcelar, Desenvolvedor Front End com sólida experiência no ecossistema JavaScript, especializado em criar interfaces modernas, performáticas e com foco na melhor experiência do usuário.
+Sou Desenvolvedor Full Stack com foco na construção de aplicações web modernas, escaláveis e orientadas à experiência do usuário.
 
-Tenho ampla vivência no desenvolvimento de aplicações web utilizando React, Next.js, TypeScript e Node.js, integrando design, tecnologia e performance em cada projeto.
+Tenho experiência no desenvolvimento de soluções completas — da interface ao backend — atuando na criação de produtos performáticos, bem estruturados e prontos para evolução.
 
-Acredito que um bom código vai além da funcionalidade — ele deve ser limpo, escalável e de fácil manutenção.
+Trabalho com tecnologias do ecossistema JavaScript, utilizando boas práticas de arquitetura, componentização e integração com APIs para entregar aplicações eficientes e sustentáveis.
 
-Busco constantemente evoluir como profissional, explorando novas ferramentas e arquiteturas que tornem o desenvolvimento mais eficiente e centrado no usuário.
+🚀 O que eu entrego
 
-🚀 Entrego soluções com propósito, atenção aos detalhes e paixão por transformar ideias em experiências digitais de alto impacto.
+✔️ Interfaces modernas e responsivas
+✔️ Integração com APIs REST
+✔️ Aplicações escaláveis e de fácil manutenção
+✔️ Código limpo e organizado
+✔️ Estrutura preparada para crescimento do produto
 
+Minha abordagem é orientada à solução de problemas reais, sempre equilibrando experiência do usuário, performance e qualidade técnica.
 
----
+🛠️ Stack Principal
+<br/> <img align="left" alt="HTML" title="HTML" width="45px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> <img align="left" alt="CSS" title="CSS" width="45px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> <img align="left" alt="JavaScript" title="JavaScript" width="45px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> <img align="left" alt="TypeScript" title="TypeScript" width="45px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/> <img align="left" alt="React" title="React" width="45px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> <img align="left" alt="Next.js" title="Next.js" width="45px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/> <img align="left" alt="Node.js" title="Node.js" width="45px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/> <img align="left" alt="NestJS" title="NestJS" width="45px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/> <br/> <br/> <br/>
+🎯 Objetivo
 
-### 🤖 Linguagens e Tecnologias
+Atuar no desenvolvimento de soluções digitais que gerem valor real para o negócio, contribuindo com:
 
-<br/>
+qualidade técnica
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.JS"
-    title="Node.JS" 
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.JS"
-    title="Next.JS" 
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Nest.JS"
-    title="Nest.JS" 
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
-/>
+visão de produto
 
-<br/>
-<br/>
-<br/>
+organização de código
 
-
-
+evolução contínua do sistema
