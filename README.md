@@ -159,8 +159,8 @@ Tenho interesse especial em projetos envolvendo **React, Next.js, Angular, TypeS
 
 Estou aberto a oportunidades, colaboração em projetos e conexões profissionais.
 
-**LinkedIn:** adicione-aqui-seu-link-do-linkedin  
-**Portfólio:** adicione-aqui-seu-link-do-portfolio  
+**LinkedIn:** https://www.linkedin.com/in/luiz-barcelar-a73a91331
+**Portfólio:** https://luizbarcelar-dev.vercel.app  
 **GitHub:** https://github.com/LuizBarcelar
 
 ---
